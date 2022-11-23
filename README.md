@@ -7,6 +7,7 @@
 # 文档说明
 ## 0. 环境（不用一定一样）
 anaconda  version 1.7.2
+
 python    version 3.8.3
 
 
@@ -21,6 +22,7 @@ python    version 3.8.3
 **input**文件夹：存放处理文件KaggleMovie.csv和DouBanMovie.csv
 
 **KaggleMain.pynb**文件：处理KaggleMovie.csv的主函数，由jupyter笔记编写，见代码注解
+
 **DouBanMain.pynb**文件：处理DouBanMovie.csv的主函数，由jupyter笔记编写，见代码注解
 
 **script**文件：由于涉及绘制词云图，wordcloud缺少中文字体，需要导入，这里导入simfang.ttf字体

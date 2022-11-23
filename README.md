@@ -5,6 +5,7 @@
 # 文档说明
 ## 0. 环境（不用一定一样）
 anaconda  version 1.7.2
+
 python    version 3.8.3
 
 ## 1. 数据
@@ -13,4 +14,5 @@ python    version 3.8.3
 
 ## 2. 文件
 input文件夹：存放处理文件movie.csv
+
 main.pynb文件：主函数，由jupyter笔记编写，见代码注解

@@ -16,7 +16,7 @@ python    version 3.8.3
 来源：https://www.kaggle.com/datasets/devendra45/movies-similarity
 
 名称：**DouBanMovie.csv**  
-来源：https://sec.douban.com/   /---- 手动爬取-----/
+来源：[https://sec.douban.com/](https://movie.douban.com/top250)           /---- 手动爬取-----/
 
 ## 2. 文件
 **input**文件夹：存放处理文件KaggleMovie.csv和DouBanMovie.csv
